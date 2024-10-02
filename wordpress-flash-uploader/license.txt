@@ -1,0 +1,5 @@
+Please note that 2 licenses affect this software bundle. The WP Flash Uploader is a bridge between Wordpress and the TWG Flash Uploader. Therefore all parts that belong to the Wordpress integration (everything except the tfu folder) are distributed under the GNU GENERAL PUBLIC LICENSE version 3. 
+TWG Flash Uploader is an external application that does not use any Wordpress code and is separate enough from Wordpress that it is a separate work under copyright law and is distributed under the TWG Flash Upload Freeware License Agreement. Please see license.txt in the tfu folder of the plugin for details.
+
+Definition of a bridge:
+A bridge links e.g. Wordpress to an external application (the TWG Flash Uploader) so that they can exchange data and cooperate. On the e.g. Wordpress side of the bridge, the bridge is treated just like a plugin; it must comply with the GPL. If the external application is separate enough that it is a separate work under copyright law, it may be licensed under whatever license the holder of its copyright sees fit.

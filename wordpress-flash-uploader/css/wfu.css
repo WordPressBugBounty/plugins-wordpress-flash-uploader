@@ -1,0 +1,96 @@
+#wfu .noflash {
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid #555555;
+	background-color: #f8f8f8;
+	text-align: center;
+	width: 330px;
+}
+#wfu .noflash a {
+	text-decoration: none;
+}
+#wfu .nounderline {
+	text-decoration: none;
+}
+#wfu div.flashcontent {
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+#wfu .error {
+	color: #FF0000;
+}
+#wfu .errordiv {
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid #555555;
+	color: #000000;
+	background-color: #f8f8f8;
+	text-align: center;
+	width: 360px;
+}
+#wfu .w250 {
+	width: 250px;
+}
+#wfu .w230 {
+	width: 230px;
+}
+#wfu .wfu_reg li {
+	list-style-type: disc;
+	list-style-position: inside;
+	padding-left: 30px;
+	margin: 2px;
+}
+#wfu .wfu_reg ul {
+	list-style-type: disc;
+	list-style-position: inside;
+}
+#wfu .wfu_reg a {
+	text-decoration: none;
+}
+
+#wfu #im_test .text, #wfu #im_test img {
+	vertical-align: middle;
+}
+.install {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: 10px;
+	border: 1px solid #cccccc;
+	width: 650px;
+	background: #F1F1F1;
+}
+#wfu .wfupadding {
+	padding-left: 5px;
+}
+#wfu .linepad p {
+	line-height: 1.3em;
+}
+#wfu .updated p, #wfu .error p {
+	line-height: 1.1;
+}
+#wfu .icon_jfu {
+	float: left;
+	height: 36px;
+	margin-top: 14px;
+	margin-right: 6px;
+	margin-bottom: 0pt;
+	margin-left: 0pt;
+	width: 36px;
+	background-image: url(../img/jfu_logo_32x32.png) !important;
+	background-position: -0px -0px !important;
+	background-repeat: no-repeat;
+}
+
+#wfu.wrap h2, #wfu .wrap h2 {
+  padding-top:17px;
+}
+
+#wfu ul.shortcode-frontend {
+  list-style-type: disc;
+  padding-left: 25px;
+}
+
+#wfu ul.shortcode-frontend li {
+  padding-left: 10px; 
+}
